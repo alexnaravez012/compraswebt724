@@ -255,14 +255,14 @@
 }
 
 .form-search-purchases {
-    color: #3a6193 !important;
-    border-bottom: 1px solid #3a6193a1 !important;
+    color: black !important;
+    border-bottom: 1px solid rgb(165, 164, 164) !important;
     font-size: 18px;
     width: 200px !important;
 }
 
 .form-search-purchases::placeholder {
-    color: #3a6193 !important;
+    color: rgb(173, 173, 173) !important;
     font-size: 13px;
 }
 
@@ -1255,7 +1255,7 @@
 .button-upload-image-purchases {
     width: 100px;
     height: 70px;
-    background-color: #05356B;
+    background-color: #811d1c;
     border-radius: 5px;
     margin-top: 25px;
     cursor: pointer;
